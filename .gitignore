@@ -23,7 +23,5 @@ vendor/
 # env files
 .env
 
-cmd
-
 docs.*
 docs/
